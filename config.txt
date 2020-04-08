@@ -1,0 +1,6 @@
+﻿token=Njk3MjEyMTEyMTI4NDQyMzc5.Xoz_Zg.YcLk3zLzkZCU_aRwsXXF2f-UXpQ
+owner=566173760160268288
+prefix= W
+game= Whelp
+stayinchannel=true
+songinstatus=true 
